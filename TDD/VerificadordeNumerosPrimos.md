@@ -29,7 +29,7 @@ Este exemplo demonstra o uso de TDD (Test-Driven Development) para implementar u
 - Maven
 
 📂 Estrutura esperada
-
+```
 src/
 ├── main/
 │   └── java/
@@ -39,7 +39,7 @@ src/
 │   └── java/
 │       └── com.exemplo/
 │           └── VerificadorPrimoTest.java
-
+```
 
 📂 Estrutura do pom.xml
 ```xml
